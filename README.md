@@ -14,6 +14,7 @@ This project analyzes customer churn behavior for a media streaming subscription
 ├── churn_predictions.csv # Final predictions from Random Forest model
 ├── dashboard.pbix # Power BI dashboard (3 pages)
 ├── README.md # Project documentation (this file)
+├── Churn_Analysis_Dashboard # View dashboard preview
 ~~~
 
 ## 📌 Project Goals
